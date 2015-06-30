@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'HelloWordForCocoaPods_Example', :exclusive => true do
+  pod "HelloWordForCocoaPods", :path => "../"
+end
+
+target 'HelloWordForCocoaPods_Tests', :exclusive => true do
+  pod "HelloWordForCocoaPods", :path => "../"
+
+  pod 'FBSnapshotTestCase'
+end
