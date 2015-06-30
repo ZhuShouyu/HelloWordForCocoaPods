@@ -1,6 +1,6 @@
 {
   "name": "HelloWordForCocoaPods",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A short description of HelloWordForCocoaPods.",
   "description": "                       An optional longer description of HelloWordForCocoaPods\n\n                       * Markdown format.\n                       * Don't worry about the indent, we strip it!\n",
   "homepage": "https://github.com/<GITHUB_USERNAME>/HelloWordForCocoaPods",
@@ -10,7 +10,7 @@
   },
   "source": {
     "git": "https://github.com/<GITHUB_USERNAME>/HelloWordForCocoaPods.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "7.0"

@@ -10,5 +10,5 @@
 #define COCOAPODS_POD_AVAILABLE_HelloWordForCocoaPods
 #define COCOAPODS_VERSION_MAJOR_HelloWordForCocoaPods 0
 #define COCOAPODS_VERSION_MINOR_HelloWordForCocoaPods 1
-#define COCOAPODS_VERSION_PATCH_HelloWordForCocoaPods 0
+#define COCOAPODS_VERSION_PATCH_HelloWordForCocoaPods 1
 
